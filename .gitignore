@@ -12,7 +12,7 @@ target/
 *.iml
 *.ipr
 .idea/
-game_result.txt
+game_results.txt
 
 ### Eclipse ###
 .apt_generated
